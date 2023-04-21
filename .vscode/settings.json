@@ -1,5 +1,4 @@
 {
-	"python.analysis.typeCheckingMode": "basic",
-	"python.formatting.provider": "black",
-	"breadcrumbs.enabled": false
+	"breadcrumbs.enabled": false,
+	"notebook.formatOnSave.enabled": false,
 }
