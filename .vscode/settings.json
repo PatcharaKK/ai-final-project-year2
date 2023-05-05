@@ -1,4 +1,4 @@
 {
 	"breadcrumbs.enabled": false,
-	"notebook.formatOnSave.enabled": false,
+	"notebook.formatOnSave.enabled": true,
 }
